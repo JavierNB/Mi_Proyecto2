@@ -1,2 +1,12 @@
 # Mi_Proyecto2
-TI3005B
+Texto normal TI3005B
+
+## Subtitulos
+Texto normal
+
+### Subtitulos
+Texto normal
+
+**Bold text**
+*Italica*
+(URL)[www.google.com]
